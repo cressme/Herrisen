@@ -1,9 +1,9 @@
 ---
-title: Example Author
+title: Herrisen
 draft: false
-role: Example Role
+role: 一枚PM
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: 信息焦虑症、工具产品
 organization:
   name: Example Organization
   url: https://example.com/
