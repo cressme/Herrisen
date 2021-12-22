@@ -1,11 +1,11 @@
 ---
-title: Example Author
-role: Example Role
+title: Herrisen
+role: 一枚PM
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: 知识焦虑症、工具产品、好奇心人
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: Lovense
+  url: https://www.lovense.com/
 social:
   - icon: envelope
     iconPack: fas
