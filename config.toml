@@ -1,4 +1,5 @@
 baseURL = 'https://nervous-tesla-859d48.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Herrisen的自留地'
 theme="eureka"
+copyright="2021 C.Herrisen"
