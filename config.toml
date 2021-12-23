@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'Herrisen的自留地'
 theme="eureka"
 copyright="2021 C.Herrisen"
+icon="assets/icon.jpg"
