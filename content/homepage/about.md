@@ -2,7 +2,7 @@
 title: Herrisen
 draft: false
 role: 一枚PM
-avatar: assets/images/icon.jpg
+avatar: images/icon.png
 bio: 信息焦虑症、工具产品
 organization:
   name: Example Organization
