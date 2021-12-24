@@ -1,4 +1,21 @@
-colorScheme:dark
-siteType:Person
-publisherName:herrisen
-icon:images/sun.png
+mainSections:
+  - posts
+description: Eureka is a elegant and powerful theme for Hugo.
+
+repoEditURL:
+
+dateFormat:
+
+titleSeparator:
+
+# Options: auto, light and dark. Default is auto.
+colorScheme: dark
+
+# E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+siteType: Person
+icon: images/icon.png
+publisherName: herrisen
+publisherLogo:
+
+highlight:
+  handler: highlightjs
