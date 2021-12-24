@@ -1,6 +1,6 @@
-baseURL = 'https://herrisen.netlify.app/'
-languageCode = 'en-us'
-title = 'Herrisen的自留地'
+baseURL = "https://herrisen.netlify.app/"
+languageCode = "en-us"
+title = "Herrisen的自留地"
 theme="eureka"
 copyright="2021 C.Herrisen"
 icon="images/icon.jpg"
