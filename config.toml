@@ -1,4 +1,4 @@
-baseURL = 'https://nervous-tesla-859d48.netlify.app'
+baseURL = 'herrisen.netlify.app'
 languageCode = 'en-us'
 title = 'Herrisen的自留地'
 theme="eureka"
